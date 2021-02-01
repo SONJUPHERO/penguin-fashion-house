@@ -1,0 +1,124 @@
+
+
+.top-section {
+    background-color: #fffff8;
+    height: 60px;
+    margin-top: 10px;
+    position: relative;
+  }
+  
+  .brand-img {
+    width: 290px;
+  }
+  
+  
+  .nav-collapse {
+    max-width: 350px;
+  }
+  .button-color{
+    background-color: rgb(3, 3, 92);
+    color: white;
+    padding: 20px;
+  }
+  .button-color:hover {
+    background-color: rgb(240, 65, 35);
+    color: white;
+  }
+  
+  /*second section*/
+  
+  #second-section .row {
+    min-height: 500px;
+    background-color: #fffff8;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    margin-left: 50px;
+  }
+  
+  
+  .penguins-heading {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    color: rgb(255, 165, 0);
+  }
+  
+  .second-penguin-section {
+    height: 350px;
+    width: 350px;
+    
+   
+  }
+  
+  .second-penguin-section img {
+    width: 95%;
+  }
+  
+  .btn-success {
+    background-color: rgb(3, 3, 92);
+    color: blue;
+  }
+  
+  .blue-btn:hover {
+    background-color: rgb(240, 65, 35);
+  }
+  
+  .second-penguin-container {
+    max-width: 500px;
+  }
+  
+
+
+
+  .card {
+    max-width: 400px;
+    
+  }
+  .price {
+    font-weight: 700;
+    font-size: 25px;
+  }
+  .bdr-r-5 {
+    border-radius: 25px;
+  }
+  .card-img-top {
+    background-color: rgba(201, 201, 201, 0.623);
+  }
+  .bdr-none {
+    border: none;
+  }
+  #casual-backpack {
+    margin-bottom: 100px;
+  }
+  #products {
+    padding: 100px 0;
+  }
+
+  .carousel-indicators li {
+    height: 15px;
+    width: 15px;
+    border-radius: 100%;
+    background-color: rgb(241, 217, 241);
+  }
+  
+  
+  #clint-reviews {
+    
+    padding-bottom: 20px;
+  }
+  
+  .carousel-inner .d-flex {
+    height: 400px;
+    border-radius: 40px;
+  }
+  
+  .my-carousel {
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  
+  .review {
+    width: 100%;
+    min-width: 100px;
+  }
